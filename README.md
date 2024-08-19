@@ -7,3 +7,4 @@ Green
 Blue
 Indigo
 Violet
+Pot of Gold
