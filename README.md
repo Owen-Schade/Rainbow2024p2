@@ -7,5 +7,5 @@ Green
 Blue
 Indigo
 Violet
-Pot of Gold
+Empty Pot of Gold
 and a cute little Kitty Cat :(
