@@ -8,4 +8,4 @@ Blue
 Indigo
 Violet
 Pot of Gold
-and a cute little Kitty Cat
+and a cute little Kitty Cat :(
